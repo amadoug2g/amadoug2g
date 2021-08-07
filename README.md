@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Amadou
-I'm an Android Developer working at My F-Zone (& Startup co-founder)
+I'm an Android Developer working at My F-Zone
 - 🌱 I also have a couple projects I work on on my own time to learn & improve like [Repertoire](https://github.com/amadoug2g/AI-Translator) and [AI Translator](https://github.com/amadoug2g/Repertoire)
 - 👀 I’m interested in mobile applications as well as automation & testing 
 - :world_map: I speak french, english and learning spanish at the moment (the list keeps growing... german is next)
