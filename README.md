@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Amadou
-I'm an Android Developer working at My F-Zone
+I'm a Software Developer
 - 🌱 I also have a couple projects I work on on my own time to learn & improve like [Repertoire](https://github.com/amadoug2g/AI-Translator) and [AI Translator](https://github.com/amadoug2g/Repertoire)
 - 👀 I’m interested in mobile applications as well as automation & testing 
-- :world_map: I speak french, english and learning spanish at the moment (the list keeps growing... german is next)
+- :world_map: I speak french, english and learning german
 - :book: Using a few langages: **Kotlin**, **Java** & **C#/.NET**
 - 📫 You can reach me on [LinkedIn](www.linkedin.com/in/amadou-cissé-80444b158)
 
