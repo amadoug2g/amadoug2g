@@ -4,7 +4,7 @@ I'm a Mobile Engineer
 - 👀 I’m interested in mobile applications as well as automation & testing 
 - :world_map: I speak french, english and learning german
 - :book: Using a few langages: **Kotlin**, **Dart** & **Swift**
-- 📫 You can reach me on [LinkedIn](www.linkedin.com/in/amadou-cissé-80444b158)
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/amadougaye-ciss%C3%A9/)
 
 <!---
 amadoug2g/amadoug2g is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
